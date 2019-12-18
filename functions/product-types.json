@@ -1,0 +1,51 @@
+{
+    "GUL": [
+        "To age 121 (No Lapse U/L)",
+        "To age 121 (Pay to 65)",
+        "To age 121 (Pay to 100)",
+        "To age 121 (20 Pay)",
+        "To age 121 (10 Pay)",
+        "To age 121 (Single Pay)",
+        "To age 65",
+        "To age 70",
+        "To age 75",
+        "To age 80",
+        "To age 85",
+        "To age 90",
+        "To age 95",
+        "To age 100",
+        "To age 105",
+        "To age 110"
+    ],
+    "OTHER": [
+        "Whole Life",
+        "Final Expense"
+    ],
+    "ROP": [
+        "15 Year Term ROP",
+        "20 Year Term ROP",
+        "25 Year Term ROP",
+        "30 Year Term ROP",
+        "To age 65 (ROP)",
+        "To age 70 (ROP)",
+        "To age 75 (ROP)"
+    ],
+    "SI": [
+        "10 Year Term Simplified Issue",
+        "15 Year Term Simplified Issue",
+        "20 Year Term Simplified Issue",
+        "25 Year Term Simplified Issue",
+        "30 Year Term Simplified Issue"
+    ],
+    "TERM": [
+        "1 Year Term",
+        "5 Year Term",
+        "10 Year Term",
+        "15 Year Term",
+        "20 Year Term",
+        "25 Year Term",
+        "30 Year Term",
+        "35 Year Term",
+        "40 Year Term"
+    ]
+}

@@ -1,0 +1,530 @@
+[
+    {
+        "id": 140,
+        "name": "American General Life Insurance",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_140_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_140_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_140_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_140_large.png"
+            }
+        }
+    },
+    {
+        "id": 36,
+        "name": "American National Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_36_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_36_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_36_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_36_large.png"
+            }
+        }
+    },
+    {
+        "id": 163,
+        "name": "Ameritas Life Insurance Corp.",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_163_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_163_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_163_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_163_large.png"
+            }
+        }
+    },
+    {
+        "id": 1474,
+        "name": "Assurity Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1474_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1474_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1474_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1474_large.png"
+            }
+        }
+    },
+    {
+        "id": 185,
+        "name": "AXA Equitable Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_185_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_185_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_185_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_185_large.png"
+            }
+        }
+    },
+    {
+        "id": 186,
+        "name": "Centrian Life Insurance ",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_186_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_186_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_186_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_186_large.png"
+            }
+        }
+    },
+    {
+        "id": 1500,
+        "name": "Cincinnati Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1500_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1500_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1500_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1500_large.png"
+            }
+        }
+    },
+    {
+        "id": 1505,
+        "name": "Columbus Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1505_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1505_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1505_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1505_large.png"
+            }
+        }
+    },
+    {
+        "id": 1675,
+        "name": "Foresters Life Insurance and Annuity Co",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1675_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1675_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1675_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1675_large.png"
+            }
+        }
+    },
+    {
+        "id": 49,
+        "name": "John Hancock Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_49_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_49_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_49_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_49_large.png"
+            }
+        }
+    },
+    {
+        "id": 111,
+        "name": "Legal and General Life Insurance (Banner Life)",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_111_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_111_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_111_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_111_large.png"
+            }
+        }
+    },
+    {
+        "id": 32,
+        "name": "Life Insurance Company of The Southwest",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_32_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_32_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_32_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_32_large.png"
+            }
+        }
+    },
+    {
+        "id": 106,
+        "name": "Lincoln National Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_106_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_106_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_106_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_106_large.png"
+            }
+        }
+    },
+    {
+        "id": 138,
+        "name": "Midland National Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_138_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_138_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_138_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_138_large.png"
+            }
+        }
+    },
+    {
+        "id": 92,
+        "name": "Mutual of Omaha Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_92_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_92_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_92_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_92_large.png"
+            }
+        }
+    },
+    {
+        "id": 1594,
+        "name": "National Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1594_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1594_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1594_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1594_large.png"
+            }
+        }
+    },
+    {
+        "id": 176,
+        "name": "Nationwide Life and Annuity Insurance Co",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_176_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_176_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_176_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_176_large.png"
+            }
+        }
+    },
+    {
+        "id": 139,
+        "name": "North American Co for Life and Health",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_139_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_139_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_139_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_139_large.png"
+            }
+        }
+    },
+    {
+        "id": 99,
+        "name": "Pacific Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_99_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_99_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_99_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_99_large.png"
+            }
+        }
+    },
+    {
+        "id": 43,
+        "name": "Phoenix Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_43_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_43_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_43_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_43_large.png"
+            }
+        }
+    },
+    {
+        "id": 121,
+        "name": "Principal National Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_121_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_121_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_121_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_121_large.png"
+            }
+        }
+    },
+    {
+        "id": 1623,
+        "name": "Prosperity Life Group",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1623_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1623_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1623_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1623_large.png"
+            }
+        }
+    },
+    {
+        "id": 69,
+        "name": "Protective Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_69_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_69_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_69_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_69_large.png"
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "Prudential Financial",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_28_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_28_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_28_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_28_large.png"
+            }
+        }
+    },
+    {
+        "id": 1619,
+        "name": "Royal Neighbors of America",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1619_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1619_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1619_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1619_large.png"
+            }
+        }
+    },
+    {
+        "id": 1621,
+        "name": "Sagicor Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1621_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1621_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1621_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1621_large.png"
+            }
+        }
+    },
+    {
+        "id": 193,
+        "name": "Savings Bank Life Insurance Company (SBLI)",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_193_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_193_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_193_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_193_large.png"
+            }
+        }
+    },
+    {
+        "id": 71,
+        "name": "Securian Financial Group",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_71_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_71_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_71_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_71_large.png"
+            }
+        }
+    },
+    {
+        "id": 1797,
+        "name": "Sons of Norway",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1797_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1797_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1797_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1797_large.png"
+            }
+        }
+    },
+    {
+        "id": 1634,
+        "name": "Symetra Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1634_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1634_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1634_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1634_large.png"
+            }
+        }
+    },
+    {
+        "id": 93,
+        "name": "Transamerica Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_93_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_93_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_93_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_93_large.png"
+            }
+        }
+    },
+    {
+        "id": 1677,
+        "name": "United Home Life Insurance Company",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_1677_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1677_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1677_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_1677_large.png"
+            }
+        }
+    },
+    {
+        "id": 195,
+        "name": "William Penn Life Insurance Company of NY",
+        "logo": {
+            "url": "https://cdn.fmsbn.com/logos/carrier_195_original.png",
+            "small": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_195_small.png"
+            },
+            "medium": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_195_medium.png"
+            },
+            "large": {
+                "url": "https://cdn.fmsbn.com/logos/carrier_195_large.png"
+            }
+        }
+    }
+]
