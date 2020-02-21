@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "insurance-bot-65337"
+    "default": "diehardcustoms-1c1d7",
+    "prod": "helper-functions-a0d85"
   }
 }
